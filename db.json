@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "studentloyees": [
+    {
+      "firstName": "Abhishek ",
+      "lastName": "Kumar",
+      "email": "abhi09@gmail.com",
+      "mobile_no": 8340138097,
+      "roll_no": "10098771",
+      "dob": "1999-02-01T18:30:00.000Z",
+      "gender": "male",
+      "course": "MCA",
+      "college": "Bit Mesra",
+      "id": 1
+    }
+  ]
+}
